@@ -1,5 +1,16 @@
 .jumbotron h1 {
   text-align: center;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  border-top: 2px solid black;
+  padding: 20px;
+}
+.index h3 {
+  text-align: center;
+  font-size: 40px;
 }
 
 .center {
@@ -26,6 +37,7 @@
 
 img {
   margin: auto;
+  box-shadow: 5px 5px 5px 5px black;
 }
 
 .smlImage {
@@ -40,7 +52,23 @@ img {
 .float {
   float:right;
 }
+
 .bigimg{
   width: 800px;
   height: 400px;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.col-md-3 {
+  text-align: center;
+  transition-duration: 3s;
+  height:auto;
+}
+.col-md-3:hover {
+  background-color: #e5ffe5;
+  height:auto;
+  transition-duration: 3s;
 }
