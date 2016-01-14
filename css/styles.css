@@ -1,0 +1,46 @@
+.jumbotron h1 {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.col-md-4 {
+ border: 5px solid black;
+}
+
+.markdownImg {
+  height: 600px;
+  width: auto;
+  box-shadow: 5px 5px 5px 5px black;
+}
+
+.centerDiv {
+  text-align: center;
+}
+
+.bigger {
+  font-size: 24px;
+}
+
+img {
+  margin: auto;
+}
+
+.smlImage {
+  width: 500px;
+  height:300px;
+}
+
+.responsive div {
+  border: 1px solid black;
+}
+
+.float {
+  float:right;
+}
+.bigimg{
+  width: 800px;
+  height: 400px;
+}
